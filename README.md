@@ -28,3 +28,13 @@ Heute habe ich Godot eingerichtet, die Grundlagen gelernt und gelegt, herausgefu
 - [ ] Ein menü machen
 - [ ] funktionierende Gebäude
 - [ ] UPS grundberechnung machen. (Unit per second)
+
+# Dienstag 14/11/2023
+## Zusammenfassung
+Heute habe ich an unserem Informatik-Auftrag für Herrn Hadorn weitergearbeitet. Ich habe den Code geschriben, um die CSV Datei mit den Länderdaten einzulesen und zu einem Dictionary umzuwandeln. Zudem habe ich ein bewertungssystem programmiert um die jeweilige übereinstimmung mit den Nutzeranforderungen zu bewerten.
+
+## Arbeitspakete für nächstes mal
+- [ ] GUI
+- [ ] Bugfixes
+- [ ] Input-Kontrolle
+
