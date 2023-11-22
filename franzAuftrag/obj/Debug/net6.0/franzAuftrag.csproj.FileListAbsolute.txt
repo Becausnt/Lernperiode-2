@@ -1,0 +1,14 @@
+C:\Users\Super\source\repos\franzAuftrag\bin\Debug\net6.0\franzAuftrag.exe
+C:\Users\Super\source\repos\franzAuftrag\bin\Debug\net6.0\franzAuftrag.deps.json
+C:\Users\Super\source\repos\franzAuftrag\bin\Debug\net6.0\franzAuftrag.runtimeconfig.json
+C:\Users\Super\source\repos\franzAuftrag\bin\Debug\net6.0\franzAuftrag.dll
+C:\Users\Super\source\repos\franzAuftrag\bin\Debug\net6.0\franzAuftrag.pdb
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.AssemblyInfoInputs.cache
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.AssemblyInfo.cs
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.csproj.CoreCompileInputs.cache
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.dll
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\refint\franzAuftrag.dll
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.pdb
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\franzAuftrag.genruntimeconfig.cache
+C:\Users\Super\source\repos\franzAuftrag\obj\Debug\net6.0\ref\franzAuftrag.dll
