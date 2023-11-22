@@ -35,6 +35,12 @@ Heute habe ich an unserem Informatik-Auftrag für Herrn Hadorn weitergearbeitet.
 
 ## Arbeitspakete für nächstes mal
 - [ ] GUI
-- [ ] Bugfixes
-- [ ] Input-Kontrolle
+- [x] Bugfixes
+- [x] Input-Kontrolle
 
+# Dienstag 21/11/2023
+## Zusammenfassung
+Ich habe noch kein GUI erstellt, dafür habe ich aber die Input-Kontrolle abgeschlossen. Danach traten aber noch einige unerwartete und mir unerklärbare Bugs aufgetaucht. Deshalb habe ich länger für die Bugfixes gebraucht. Diese sind nun jedoch grösstenteils abgeschlossen.
+## Arbeitspakete für nächstes mal
+- [ ] GUI
+Ich denke das GUI wird recht anspruchsvoll sein, da ich will das es auch gut aussieht. Deshalb habe ich noch nicht mehr eingeplant.
