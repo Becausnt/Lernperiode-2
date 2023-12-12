@@ -42,5 +42,13 @@ Heute habe ich an unserem Informatik-Auftrag für Herrn Hadorn weitergearbeitet.
 ## Zusammenfassung
 Ich habe noch kein GUI erstellt, dafür habe ich aber die Input-Kontrolle abgeschlossen. Danach traten aber noch einige unerwartete und mir unerklärbare Bugs aufgetaucht. Deshalb habe ich länger für die Bugfixes gebraucht. Diese sind nun jedoch grösstenteils abgeschlossen.
 ## Arbeitspakete für nächstes mal
-- [ ] GUI
+- [X] GUI
 Ich denke das GUI wird recht anspruchsvoll sein, da ich will das es auch gut aussieht. Deshalb habe ich noch nicht mehr eingeplant.
+
+# Dienstag 12/12/2023
+## Zusammenfassung
+Heute habe ich am Advent of Code weitergearbeitet, hänge jedoch fest. Ich habe versucht meinen Code für den Teil 2 von Tag 1 zum Laufen zu bringen, aber es will enfach nicht. Zudem habe ich an der Aufgabe mit den Zahnrädern gearbeitet, bin jedoch noch nicht fertig.
+## Arbeitspakete für nächstes mal
+- [ ] AoC Zahnradaufgabe zum laufen bringen
+- [ ] Tag 4 beginnen (AoC)
+- [ ] Vlt. Nochmals Tag 1 Teil 2 Versuchen.
