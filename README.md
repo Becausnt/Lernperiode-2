@@ -81,7 +81,7 @@ func cycle_state():
 	$obstacle/obstacleTexture.play("nok")
 	await get_tree().create_timer(2).timeout
 ```
-Ich hatte auch probleme damit, ein Objekt festzulegen, zu welchem der Spieler am anfang des Spiels gehen soll. Dieses Objekt soll flexibel positionierbar sein. Aber da der Spieler und das Objekt in einer unterschiedlichen Szene sind, konnte ich nicht einfach `GDScript position = $Marker2D.position` ausführen, da dieses objekt nicht in der selben Szene ist. Ich habe dieses Problem dadurch gelöst, das ich eine Start-Funktion im player definiere, die als Argument eine Position nimmt und die Position des Spielers auf die gegebene setzt.
+Ich hatte auch probleme damit, ein Objekt festzulegen, zu welchem der Spieler am anfang des Spiels gehen soll. Dieses Objekt soll flexibel positionierbar sein. Aber da der Spieler und das Objekt in einer unterschiedlichen Szene sind, konnte ich nicht einfach ` position = $Marker2D.position` ausführen, da dieses objekt nicht in der selben Szene ist. Ich habe dieses Problem dadurch gelöst, das ich eine Start-Funktion im player definiere, die als Argument eine Position nimmt und die Position des Spielers auf die gegebene setzt.
 ```GDScript
 func start(pos):
 	position = pos
