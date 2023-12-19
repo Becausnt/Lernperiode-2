@@ -49,9 +49,9 @@ Ich denke das GUI wird recht anspruchsvoll sein, da ich will das es auch gut aus
 ## Zusammenfassung
 Heute habe ich am Advent of Code weitergearbeitet, hänge jedoch fest. Ich habe versucht meinen Code für den Teil 2 von Tag 1 zum Laufen zu bringen, aber es will enfach nicht. Zudem habe ich an der Aufgabe mit den Zahnrädern gearbeitet, bin jedoch noch nicht fertig.
 ## Arbeitspakete für nächstes mal
-- [ ] PlayerCharacter
+- [x] PlayerCharacter
 - [ ] Hindernisse
-- [ ] Leben
+- [x] Leben
 
 # Dienstag 19/12/2023
 ## Zusammenfassung
