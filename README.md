@@ -2,7 +2,7 @@
 
 # Grob-Planung 
 - [ ] Eigene Projekte
-- [ ] Modul 431 Fertig
+- [x] Modul 431 Fertig
 - [ ] Machine Learning
 
 ## Leit-Satz
