@@ -40,7 +40,7 @@ namespace franzAuftrag
                 Urban
                  */
 
-                string pathToCsv = "C:\\Users\\Super\\source\\repos\\franzAuftrag\\OnlyCountrysFrench1.csv";
+                string pathToCsv = "Path\\To\\CSV.csv";
                 //creating dictionary with the country:Attribute pairs
                 Dictionary<string, List<string>> countriesAndAttributes = new Dictionary<string, List<string>>();
                 //Reading the lines of the file
